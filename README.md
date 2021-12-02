@@ -28,7 +28,7 @@
 > 
 > 
 > 
-| Data Information |          
+| Used Data Column Information |          
 | ---------------- | 
 | ID         |
 | Age              | 
