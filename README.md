@@ -22,10 +22,10 @@
 >
 > Data Source <br>
 > ----
-> <a href="https://www.census.gov/"> US Census Data </a><br>
+> <a href="https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-census-data?project=instant-voyager-332714"> US Census Data </a><br>
 > Dataset ID : bigquery-public-data:census_bureau_usa <br>
-> 
-> 
+> Total amount of data : 32561
+> Used amount of data : 100
 > 
 > 
 | Used Data Column Information |          
