@@ -1,4 +1,4 @@
-# Predict the income class of all respondents in the presentation data frame
+# Predict the income class of all respondents in the prediction data frame
 SELECT
   *
 FROM
